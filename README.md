@@ -2,7 +2,7 @@
 
 ## New Repository for station KGAK
 
-by Laura Burt
+updated by Laura Burt 9/30
 
 
 ---
