@@ -2,11 +2,6 @@
 about:
   enable : true
   title : "Let us help you win big!"
-<<<<<<< HEAD
-  content : "Check backC for upcoming contents."
-=======
-  content : "Check back for upcoming contents."
->>>>>>> a27c57dd49f648c3c7602d5aa7a4a8fc2e2a8fa1
   image : "company-group-pic.jpg"
 
 
