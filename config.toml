@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://lemon-ocean-08d7caf10.azurestaticapps.net/"
+baseURL = "https://lemon-ocean-08d7caf10.azurestaticapps.net"
 title = "KGAK"
 theme = "airspace-hugo"
 # post pagination
