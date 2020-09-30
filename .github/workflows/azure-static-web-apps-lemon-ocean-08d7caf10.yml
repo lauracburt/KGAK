@@ -25,8 +25,8 @@ jobs:
           hugo-version: "latest"
           extended: true
 
-    - name: Build
-      run: hugo
+      - name: Build
+        run: hugo
                
       - name: Build And Deploy
         id: builddeploy
