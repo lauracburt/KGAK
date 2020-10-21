@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/KGAKbg.jpg"
+  bg_image : "images/KGAKbanner.jpg"
   title : "KGAK 1330 AM"
   content : "All Navajo All the Time"
   button:
@@ -16,13 +16,13 @@ about:
   title : "About Us"
   description : "KGAK 1330 AM is a radio station broadcasting a Native American format. KGAK is located in Gallup, New Mexico"
   content : "Thanks for letting us be a part of your day!"
-  image : "images/KGAKroad.jpg"
+  image : "images/KGAK_Logo_V.png"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/KGAKantenna.jpg"
+  bg_image : "images/blueskyantenna.jpg"
   title : ""
   content : ""
   button:

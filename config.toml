@@ -82,7 +82,7 @@ weight = 3
 
 #################### default parameters ################################
 [params]
-logo = "images/KGAKsmlogo.jpg"
+logo = "images/KGAK_Logo_V_SM.png"
 # Meta data
 description = ""
 author = "Themefisher"
