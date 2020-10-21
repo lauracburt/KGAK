@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/KGAKbanner.jpg"
+  bg_image : "images/monumentvalley copy.jpg"
   title : "KGAK 1330 AM"
   content : "All Navajo All the Time"
   button:
